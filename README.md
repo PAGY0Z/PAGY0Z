@@ -10,9 +10,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PAGY0Z&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PAGY0Z&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=PAGY0Z&icon=0&color=12)](https://visitcount.itsvg.in)
 
