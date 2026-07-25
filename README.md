@@ -47,7 +47,7 @@
 
 ### [Pub-Golf](https://pub-golf.uk/) — Side project to manage pub golf games with friends
 
-### [AI Calendar Assistant](https://github.com/PAGY0Z/SP-AI-Calendar-Assistant) — Not deployed
+### [AI Calendar Assistant](https://github.com/PAGY0Z/MSP26-AI-Calendar-Assistant) — Not deployed
 
 ---
 
