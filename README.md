@@ -45,6 +45,8 @@
 
 ### [JS → OpenCL Transpiler (J2OCL)](https://github.com/PAGY0Z/J2OCL) — MSc Thesis (supervised by Michael Vollmer)
 
+### [Pub-Golf](https://pub-golf.uk/) — Side project to manage pub golf games with friends
+
 ---
 
 ## 🎓 Education
