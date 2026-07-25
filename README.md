@@ -42,10 +42,8 @@
 ## 🚀 Featured Projects
 
 ### [FlowGrow](https://flowgrow.fr) — IoT Indoor Foot-Traffic Analytics
-As technical co-founder, I lead a 6-person cross-functional team building FlowGrow in partnership with QR WIN EVENTS. I designed and shipped a self-hosted 12-service stack (7 core + 5 observability) exposing 105+ API endpoints on an OVH VPS, and validated the system's trilateration accuracy across three field sessions — a football field and two live events — reaching a 12 m effective sensor radius against a 10 m target. The product is now in beta with 20 testers, on its way to a commercial launch with heatmaps, retail KPI dashboards, a bidirectional BI API, and automated PDF reporting.
 
-### [High-Performance JS → OpenCL Transpiler (J2OCL)](https://github.com/PAGY0Z/J2OCL) — MSc Thesis
-Supervised by Dr. Michael Vollmer (Kent — Programming Languages & GPU compilation via typed DSLs), this thesis project is a Babel AST transformer that compiles a typed JavaScript subset directly into OpenCL C kernels. It handles native OpenCL types, built-in functions, and automatic host↔device memory transfers, bringing GPU acceleration to Node.js without ever writing a line of C.
+### [JS → OpenCL Transpiler (J2OCL)](https://github.com/PAGY0Z/J2OCL) — MSc Thesis (supervised by Michael Vollmer)
 
 ---
 
@@ -53,20 +51,6 @@ Supervised by Dr. Michael Vollmer (Kent — Programming Languages & GPU compilat
 
 - **University of Kent** — MSc Advanced Computer Science, UK · 2025–2026
 - **Epitech** — Software Architecture Engineer (RNCP7), France · 2022–2027
-
----
-
-## 📈 Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PAGY0Z/PAGY0Z/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PAGY0Z/PAGY0Z/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/PAGY0Z/PAGY0Z/output/github-contribution-grid-snake.svg" />
-</picture>
-
-**Recent GitHub Activity**
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
