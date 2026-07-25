@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%26+IoT+Engineer;MSc+%40+Kent+x+Epitech+RNCP7;Building+FlowGrow+(IoT+Analytics);Open+to+Work-Study+Opportunities)](https://github.com/PAGY0Z)
 
-🎓 MSc Advanced Computer Science @ University of Kent<br/>
-🎓 Software Architecture Engineer (RNCP7) @ Epitech<br/>
+🎓 MSc in Advanced Computer Science @ University of Kent<br/>
+🎓 MSc in Software Architecture Engineering (RNCP7) @ Epitech<br/>
 📍 Paris, France<br/>
 🌐 French (native) · English (fluent)
 
@@ -49,8 +49,8 @@
 
 ## 🎓 Education
 
-- **University of Kent** — MSc Advanced Computer Science, UK · 2025–2026
-- **Epitech** — Software Architecture Engineer (RNCP7), France · 2022–2027
+- **University of Kent** — MSc in Advanced Computer Science, UK · 2025–2026
+- **Epitech** — MSc in Software Architecture Engineering (RNCP7), France · 2022–2027
 
 ---
 
