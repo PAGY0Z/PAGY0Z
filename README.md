@@ -47,7 +47,7 @@
 
 ### [Pub-Golf](https://pub-golf.uk/) — Side project to manage pub golf games with friends
 
-### [AI Calendar Assistant](https://github.com/PAGY0Z/MSP26-AI-Calendar-Assistant) — Google Calendar assistant driven by audio (Whisper transcription + OpenAI function calling) · Not deployed
+### [AI Calendar Assistant](https://github.com/PAGY0Z/MSP26-AI-Calendar-Assistant) — Audio-driven Google Calendar assistant · Not deployed
 
 ### [Tir de Récré](https://wilfredraw.itch.io/tir-de-recre) — Puzzle game · 🥇 1st place, Volcano Game Jam 2025
 
