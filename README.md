@@ -49,6 +49,10 @@
 
 ### [AI Calendar Assistant](https://github.com/PAGY0Z/MSP26-AI-Calendar-Assistant) — Not deployed
 
+### [Tir de Récré](https://wilfredraw.itch.io/tir-de-recre) — Puzzle game · 🥇 1st place, Volcano Game Jam 2025
+
+### [Fur-Ever Dependent](https://wilfredraw.itch.io/fur-ever-dependent) — Co-op puzzle game · 🥈 2nd place, Volcano Game Jam 2024
+
 ---
 
 ## 🎓 Education
